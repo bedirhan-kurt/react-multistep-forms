@@ -1,17 +1,18 @@
-// COMPONENTS
-export { default as MultistepForm } from "./components/MultistepForm";
-export { default as Step } from "./components/Step";
-export { default as StepContainer } from "./components/StepContainer";
-export { default as ProgressBar } from "./components/ProgressBar";
+// Context
+export * from "./context/MultistepFormContext";
 
-// StepControls
-export { default as StepControls } from "./components/StepControls/StepControls";
-export { NextButton } from "./components/StepControls/NextButton";
-export { PrevButton } from "./components/StepControls/PrevButton";
-export { SubmitButton } from "./components/StepControls/SubmitButton";
+// Hooks
+export * from "./hooks/useMultistepForm";
 
-// HOOKS
-export { useMultistepForm } from "./hooks/useMultistepForm";
+// Components
+export * from "./components/MultistepForm";
+export * from "./components/Step";
+export * from "./components/ProgressBar";
+export * from "./components/StepContainer";
+export * from "./components/StepControls/NextButton";
+export * from "./components/StepControls/PrevButton";
+export * from "./components/StepControls/SubmitButton";
+export * from "./components/StepControls/StepControls";
 
-// CONTEXT
-export { MultistepFormContext } from "./context/MultistepFormContext";
+// Types
+export * from "./types/StepControlButtonType";

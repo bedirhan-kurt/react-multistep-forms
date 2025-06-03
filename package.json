@@ -1,6 +1,6 @@
 {
   "name": "react-multistep-forms",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Flexible and customizable multi-step form context for React with native React Hook Form integration.",
   "type": "module",
   "main": "dist/index.cjs.js",

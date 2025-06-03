@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/react-multistep-forms.svg)](https://www.npmjs.com/package/react-multistep-forms)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Flexible and customizable multi-step form context for React with native React Hook Form integration.
+Flexible and customizable multistep form context for React with native React Hook Form integration.
 
 > ⚠️ **Disclaimer: This package is currently under active development.**
 >
