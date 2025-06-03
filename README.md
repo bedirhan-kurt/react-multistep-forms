@@ -11,11 +11,11 @@ Flexible and customizable multi-step form context for React with native React Ho
 >
 > Any developer or end user who downloads or uses this package acknowledges that the package author is **not responsible** for any data loss, system failure, security issues, or other problems that may arise from its use.
 >
-> By downloading or using this package, the developer or end user **agrees that the author of the package is not to be held liable** for any such issues resulting from its use.
+> By downloading or using this package, the developer or end user agrees that the author of this package is not liable for any direct, indirect, incidental, or consequential damages arising from its use. Use at your own risk.
 >
 > It is strongly recommended to thoroughly test the package before using it in any production environment.
 >
-> For bug reports or suggestions, please open an issue on [GitHub Issues](https://github.com/your-username/your-repo/issues)."
+> For bug reports or suggestions, please open an issue on [GitHub Issues](https://github.com/bedirhan-kurt/react-multistep-forms/issues)."
 
 ![React Multistep Forms Introduction](https://s2.ezgif.com/tmp/ezgif-29c1a55a3697ac.gif)
 
