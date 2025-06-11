@@ -17,7 +17,9 @@ Flexible and customizable multistep form context for React with native React Hoo
 >
 > For bug reports or suggestions, please open an issue on [GitHub Issues](https://github.com/bedirhan-kurt/react-multistep-forms/issues)."
 
-![React Multistep Forms Introduction](https://s2.ezgif.com/tmp/ezgif-29c1a55a3697ac.gif)
+
+![68747470733a2f2f73322e657a6769662e636f6d2f746d702f657a6769662d32396331613535613336393761632e676966](https://github.com/user-attachments/assets/8b002749-bce5-4fd4-a872-e4a82c9067d4)
+
 
 ## Installation
 
